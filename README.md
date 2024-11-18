@@ -1,4 +1,5 @@
 ## Hi there 👋
+<img src="./fleurs_jaunes.png" alt="Montagne avec arbre en fleur">
 
 <!--
 **lorenzo-ottaviani/lorenzo-ottaviani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
