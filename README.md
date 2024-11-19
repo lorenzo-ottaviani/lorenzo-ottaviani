@@ -11,11 +11,29 @@ La découverte de Python au printemps 2024, m'a poussé à m'inscire au Bachelor
 
 Je recherche une alternance en tant que développeur logiciel pour la rentrée 2025.
 
-![Italien bilingue](https://img.shields.io/badge/Italien-bilingue-gray?labelColor=violet)
+## 🛠 Outils
+
+<ul>
+  <li> Python (MOOC Apprendre à coder avec Python - Université Libre de Bruxelles) </li>
+  <li> R </li>
+  <li> Github et Git Bash </li>
+  <li> HTML </li>
+  <li> CSS </li>
+</ul>
+
+## 💬 Langues parlées
+
+![Italien bilingue](https://img.shields.io/badge/Français%20et%20Italien-bilingue-gray?labelColor=violet)
 
 ![Espagnol DELE B2](https://img.shields.io/badge/Espagnol-DELEB2-gray?labelColor=yellow)
 
 ![Anglais scientifique](https://img.shields.io/badge/Anglais-scientifique-gray?labelColor=blue)
+
+## 🌱 Statistiques
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzo-ottaviani&theme=radical&hide_langs_below=8)
+
+![](https://github-readme-stats.vercel.app/api?username=lorenzo-ottaviani&show_icons=true&theme=radical&count_private=true)
 
 <!--
 **lorenzo-ottaviani/lorenzo-ottaviani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
