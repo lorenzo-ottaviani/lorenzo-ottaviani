@@ -25,7 +25,7 @@ Je recherche une alternance en tant que développeur logiciel pour la rentrée 2
 
 ![Italien bilingue](https://img.shields.io/badge/Français%20et%20Italien-bilingue-gray?labelColor=violet)
 
-![Espagnol DELE B2](https://img.shields.io/badge/Espagnol-DELEB2-gray?labelColor=yellow)
+![Espagnol DELE B2](https://img.shields.io/badge/Espagnol-DELE%20B2-gray?labelColor=yellow)
 
 ![Anglais scientifique](https://img.shields.io/badge/Anglais-scientifique-gray?labelColor=blue)
 
