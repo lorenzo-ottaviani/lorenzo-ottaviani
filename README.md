@@ -35,6 +35,10 @@ Je recherche une alternance en tant que développeur logiciel pour la rentrée 2
 
 ![](https://github-readme-stats.vercel.app/api?username=lorenzo-ottaviani&show_icons=true&theme=radical&count_private=true)
 
+## 📫 Liens
+
+<a href=https://www.linkedin.com/in/lorenzo-ottaviani-720bab339/> <img src="./LinkedIn.png" alt="Mon LinkedIn" height="80"> <a/>
+
 <!--
 **lorenzo-ottaviani/lorenzo-ottaviani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
