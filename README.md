@@ -4,7 +4,7 @@
 
 ## Une petite présentation
 
-J'ai étudié les sciences naturelles pendant de nombreuses années jusqu'à obtenir le grade de Master recher en Ecologie, Biodiversité, Evolution (EBE).
+J'ai étudié les sciences naturelles pendant de nombreuses années jusqu'à obtenir le grade de Master recherche en Ecologie, Biodiversité, Evolution (EBE).
 Après avoir coaché de nombreux collégiens et lycéens en les ayant aidés à reussir leur épreuves de maths, physique-chimie ou SVT ; j'ai exploré l'enseignement en collège et lycée professionnel deux ans et demi durant.
 
 La découverte de Python au printemps 2024, m'a poussé à m'inscire au Bachelor en informatique à l'école La Plateforme, à Marseille.
