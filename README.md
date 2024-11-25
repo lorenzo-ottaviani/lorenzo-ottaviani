@@ -38,6 +38,7 @@ Je recherche une alternance en tant que développeur logiciel pour la rentrée 2
 ## 📫 Liens
 
 <a href=https://www.linkedin.com/in/lorenzo-ottaviani-720bab339/> <img src="./LinkedIn.png" alt="Mon LinkedIn" height="80"> <a/>
+<a href=https://lorenzo-ottaviani.github.io/portfolio/> <img src="./écureuil.jpg" alt="Mon Portfolio" height="80"> <a/>
 
 <!--
 **lorenzo-ottaviani/lorenzo-ottaviani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
