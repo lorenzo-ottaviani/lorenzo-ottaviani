@@ -13,13 +13,13 @@ Je recherche une alternance en tant que développeur logiciel pour la rentrée 2
 
 ## 🛠 Outils
 
-<ul>
-  <li> Python (MOOC Apprendre à coder avec Python - Université Libre de Bruxelles) </li>
-  <li> R </li>
-  <li> Github et Git Bash </li>
-  <li> HTML </li>
-  <li> CSS </li>
-</ul>
+  - Python (MOOC Apprendre à coder avec Python - Université Libre de Bruxelles)
+  - C
+  - R
+  - Github et Git Bash
+  - HTML
+  - CSS
+    
 
 ## 💬 Langues parlées
 
