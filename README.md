@@ -16,6 +16,7 @@ Je recherche une alternance en tant que développeur logiciel pour la rentrée 2
   - Python (MOOC Apprendre à coder avec Python - Université Libre de Bruxelles)
   - C
   - C++
+  - Java
   - SQL
   - R
   - Github et Git Bash
