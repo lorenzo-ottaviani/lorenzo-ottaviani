@@ -17,7 +17,7 @@ J’effectue actuellement une alternance chez Virbac en tant que développeur lo
   - C
   - C++
   - C#
-  - Java et Java Spring Boot
+  - Java et Spring Boot
   - SQL
   - R
   - Github et Git Bash
