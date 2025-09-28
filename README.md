@@ -5,18 +5,19 @@
 ## Une petite présentation
 
 J'ai étudié les sciences naturelles pendant de nombreuses années jusqu'à obtenir le grade de Master recherche en Ecologie, Biodiversité, Evolution (EBE).
-Après avoir coaché de nombreux collégiens et lycéens en les ayant aidés à reussir leur épreuves de maths, physique-chimie ou SVT ; j'ai exploré l'enseignement en collège et lycée professionnel deux ans et demi durant.
+Après avoir coaché de nombreux collégiens et lycéens en les ayant aidés à réussir leurs épreuves de maths, physique-chimie ou SVT, j'ai exploré l'enseignement en collège et lycée professionnel deux ans et demi durant.
 
-La découverte de Python au printemps 2024, m'a poussé à m'inscire au Bachelor en informatique à l'école La Plateforme, à Marseille.
+La découverte de Python au printemps 2024 m'a poussé à m'inscrire en Bachelor en informatique à l'école La Plateforme, à Marseille.
 
-Je recherche une alternance en tant que développeur logiciel pour la rentrée 2025.
+J’effectue actuellement une alternance chez Virbac en tant que développeur logiciel.
 
 ## 🛠 Outils
 
   - Python (MOOC Apprendre à coder avec Python - Université Libre de Bruxelles)
   - C
   - C++
-  - Java
+  - C#
+  - Java et Java Spring Boot
   - SQL
   - R
   - Github et Git Bash
