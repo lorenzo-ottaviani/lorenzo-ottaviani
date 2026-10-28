@@ -35,9 +35,9 @@ J’effectue actuellement une alternance chez Virbac en tant que développeur lo
 
 ## 🌱 Statistiques
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzo-ottaviani&theme=radical&hide_langs_below=8)
+![](https://github-stats-extended.vercel.app/api/top-langs/?username=lorenzo-ottaviani&theme=radical&hide_langs_below=8)
 
-![](https://github-readme-stats.vercel.app/api?username=lorenzo-ottaviani&show_icons=true&theme=radical&count_private=true)
+![](https://github-stats-extended.vercel.app/api?username=lorenzo-ottaviani&show_icons=true&theme=radical&count_private=true)
 
 ## 📫 Liens
 
